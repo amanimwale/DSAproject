@@ -7,7 +7,6 @@
 
 using namespace std;
 
-// Structure to represent a Transaction
 struct Transaction {
     int userId;
     double amount;
